@@ -1,6 +1,8 @@
 ## Gold Star Plugin
 
-Add any number of gold stars to your project with this plugin
+*Add any number of gold stars to your project with this plugin*
+
+# Instructions from Figma
 
 Below are the steps to get your plugin running. You can also find instructions at:
 
