@@ -1,0 +1,14 @@
+{
+  "name": "gold-star",
+  "version": "1.0.0",
+  "description": "This plugin creates gold stars to add to your projects or rate designs",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "KS Gunther",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.40.0"
+  }
+}
